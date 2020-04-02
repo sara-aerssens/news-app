@@ -1,162 +1,318 @@
 {
-  "status": "ok",
-  "totalResults": 756,
-  "articles": [
-      {
-          "source": {
-              "id": "the-hindu",
-              "name": "The Hindu"
-          },
-          "author": "The Hindu Net Desk",
-          "title": "Watch | Air quality improves amid lockdown in India",
-          "description": "A video on the improvement in air quality across the country amid the nationwide lockdown due to the COVID-19 pandemic",
-          "url": "https://www.thehindu.com/news/national/air-quality-improves-in-india-amid-lockdown/article31234638.ece",
-          "urlToImage": "https://www.thehindu.com/news/national/hjgp5o/article31235122.ece/ALTERNATES/LANDSCAPE_615/INDIA-GATEjpg",
-          "publishedAt": "2020-04-02T10:08:58.5174162Z",
-          "content": "India is currently under the biggest lockdown with around 130 crore people asked to stay home in view of the COVID-19 outbreak.\r\nAccording to the Centre-run System of Air Quality and Weather Forecasting and Research (SAFAR), the measures against COVID-19 have… [+512 chars]"
-      },
-      {
-          "source": {
-              "id": "cnn",
-              "name": "CNN"
-          },
-          "author": null,
-          "title": "Coronavirus hits New York hard as Times Square looks like a 'disaster film' - CNN Video",
-          "description": "CNN's Richard Quest reports from New York City where streets and iconic landmarks are eerily empty as the novel coronavirus puts the city on lockdown. The US has reported over 5,000 deaths, according to Johns Hopkins University.",
-          "url": "http://us.cnn.com/videos/us/2020/04/02/us-new-york-coronavirus-covid-19-pandemic-times-square-subway-quest-pkg-intl-ldn-vpx.cnn",
-          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200402095101-us-new-york-coronavirus-covid-19-pandemic-times-square-subway-quest-pkg-intl-ldn-vpx-00004510-super-tease.jpg",
-          "publishedAt": "2020-04-02T10:08:41.8374184Z",
-          "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
-      },
-      {
-          "source": {
-              "id": "financial-times",
-              "name": "Financial Times"
-          },
-          "author": null,
-          "title": "Germany conducting more than 50,000 coronavirus tests a day",
-          "description": "Other European nations struggle to match Berlin’s focus on finding out who has Covid-19",
-          "url": "https://www.ft.com/content/6a8d66a4-5862-4937-8d53-b2d10794e795",
-          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0c362ff8-4f30-4780-96c5-cc454daadf3a.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "publishedAt": "2020-04-02T10:08:11.3321623Z",
-          "content": "German laboratories are conducting more than 50,000 coronavirus tests a day, according to data released on Wednesday that laid bare differences in strategy and capacity across Europe. \r\nThe Robert Koch Institute, which is co-ordinating Germany’s public health… [+4708 chars]"
-      },
-      {
-          "source": {
-              "id": "buzzfeed",
-              "name": "Buzzfeed"
-          },
-          "author": "Emma McAnaw",
-          "title": "31 Essentials To Keep On Hand If You're Working Remotely",
-          "description": "Because we never thought we'd be working full-time from our childhood bedroom.",
-          "url": "https://www.buzzfeed.com/emmamcanaw/essentials-on-hand-working-remotely",
-          "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-03/31/21/enhanced/7594a85e4dc2/original-398-1585691105-3.jpg?crop=1200:630;0,0",
-          "publishedAt": "2020-04-02T10:08:09.6625605Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": "ign",
-              "name": "IGN"
-          },
-          "author": null,
-          "title": "Never Played... Final Fantasy 7 - Episode 1: Midgar Slums - IGN",
-          "description": "We all have that pile of shame, those games we should have played but just never have. This series gives us the chance to make that pile just a little bit shorter. Next up, we have Joe who's never played Final Fantasy 7. This week, we venture into the city of…",
-          "url": "https://www.ign.com/videos/never-played-final-fantasy-7-episode-1-midgar-slums",
-          "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/7/never-played-ff7-blog-1-1581090372449.jpg?width=1280",
-          "publishedAt": "2020-04-02T10:08:07.2302282Z",
-          "content": "How was your video watching experience?"
-      },
-      {
-          "source": {
-              "id": "financial-times",
-              "name": "Financial Times"
-          },
-          "author": null,
-          "title": "British Airways set to suspend 32,000 staff amid coronavirus crisis",
-          "description": "Carrier is scrambling to cut costs as virus destroys demand for air travel",
-          "url": "https://www.ft.com/content/1f22a588-85ae-46f8-9c92-afa71c88b29b",
-          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf0be851-92c1-44cf-9fb1-80a44da69ce0.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "publishedAt": "2020-04-02T10:08:06.5555816Z",
-          "content": "British Airways is expected to announce plans to suspend about 32,000 employees as the airline looks to slash costs in the wake of the coronavirus pandemic. \r\nThe airline is in talks with Unite, the union, about temporarily suspending staff, with an announcem… [+1059 chars]"
-      },
-      {
-          "source": {
-              "id": "financial-times",
-              "name": "Financial Times"
-          },
-          "author": null,
-          "title": "Why testing offers a way to end the lockdowns",
-          "description": "Widespread screening will be complex and costly but crucial",
-          "url": "https://www.ft.com/content/d38d6e34-740a-11ea-95fe-fcd274e920ca",
-          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Ff80f4ef2-740b-11ea-90ce-5fb6c07a27f2?source=next-opengraph&fit=scale-down&width=900",
-          "publishedAt": "2020-04-02T10:07:59.64195Z",
-          "content": "More than a third of the world’s population has been urged to stay at home. Stock markets have collapsed and authorities have thrown vast sums of money at the global economy to stop it from plunging into depression. Yet the most chilling aspect of the coronav… [+3328 chars]"
-      },
-      {
-          "source": {
-              "id": "ign",
-              "name": "IGN"
-          },
-          "author": null,
-          "title": "Who's Who in Final Fantasy 7 Remake - IGN",
-          "description": "The highly anticipated Final Fantasy 7 Remake is almost here. If you aren't familiar with the 1997 original, here are some of the most important characters you'll want to get to know. Sponsored by Square Enix.",
-          "url": "https://www.ign.com/videos/whos-who-in-final-fantasy-7-remake",
-          "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/4/1/whoswho-thumb-1585754650855.png?width=1280",
-          "publishedAt": "2020-04-02T10:07:45.5564413Z",
-          "content": "How was your video watching experience?"
-      },
-      {
-          "source": {
-              "id": "cbc-news",
-              "name": "CBC News"
-          },
-          "author": "CBC News",
-          "title": "Ontario ICUs stressed by surge of COVID-19 cases",
-          "description": "A rise in COVID-19 cases in Ontario overruns the province's intensive care units, with projections of more to come.",
-          "url": "http://www.cbc.ca/player/play/1719234115970",
-          "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/166/431/covid19-toronto-concerns-daigle-010420.jpg",
-          "publishedAt": "2020-04-02T10:07:45.3692613Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": "the-next-web",
-              "name": "The Next Web"
-          },
-          "author": "Callum Booth",
-          "title": "Please, won’t someone let me buy a kettlebell?",
-          "description": "Yeah, I had a gym membership. I’ve listened to a fair few Joe Rogan podcasts. I exercise. So, with the coronavirus lockdown in full effect, there was something I knew I had to do: Buy a kettlebell. If you aren’t aware of kettlebells (come on, haven’t you ever…",
-          "url": "https://thenextweb.com/plugged/2020/04/02/buy-a-kettlebell-fitness-coronavirus-lockdown/",
-          "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2Fheader-image-buy-a-kettlebell.png&signature=8adb2ea55d5dff235a3d2f314347970e",
-          "publishedAt": "2020-04-02T10:03:40Z",
-          "content": "Yeah, I had a gym membership. Ive listened to a fair few Joe Rogan podcasts. I exercise. So, with the coronavirus lockdown in full effect, there was something I knew I had to do: Buy a kettlebell.\r\nIf you arent aware of kettlebells (come on, havent you ever l… [+2302 chars]"
-      },
-      {
-          "source": {
-              "id": "google-news",
-              "name": "Google News"
-          },
-          "author": "Al Jazeera",
-          "title": "Six-week-old dies as US coronavirus death toll crosses 5,000",
-          "description": "Infant taken to a Connecticut hospital late last week dies as US sets one-day record of 884 people killed in 24 hours.",
-          "url": "https://www.aljazeera.com/news/2020/04/week-dies-coronavirus-death-toll-crosses-5000-200402064226778.html",
-          "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/4/2/5df29fdbfd744950803f70412b937f31_18.jpg",
-          "publishedAt": "2020-04-02T10:03:33+00:00",
-          "content": "Death toll in the United States from the coronavirus pandemic has topped 5,000, with a six-week-old baby becoming one of the youngest known victims.\r\nAt about 02:35 GMT on Thursday, 5,116 people had died in the US, according to a tally from Johns Hopkins Univ… [+2402 chars]"
-      },
-      {
-          "source": {
-              "id": "the-wall-street-journal",
-              "name": "The Wall Street Journal"
-          },
-          "author": "David Hodari",
-          "title": "Oil Leaps on Hopes for U.S. Action, End to Saudi-Russia Spat",
-          "description": "Prices supported by efforts by Trump administration toward measures to help the energy industry",
-          "url": "https://www.wsj.com/articles/oil-leaps-on-hopes-for-u-s-action-end-to-saudi-russia-spat-11585821756?mod=hp_lead_pos1",
-          "urlToImage": "https://images.wsj.net/im-171899/social",
-          "publishedAt": "2020-04-02T10:02:00Z",
-          "content": "Crude prices jumped Thursday on hopes for an end to the price war between Saudi Arabia and Russia and the possibility of action from the White House to mitigate the effects of last months vertiginous drops.\r\nBrent crude oil, the global benchmark, rose 10% to … [+229 chars]"
-      }
-  ]
+    "status": "ok",
+    "totalResults": 2649,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.co.uk"
+            },
+            "author": "By Ben Spencer Medical Correspondent For The Daily Mail",
+            "title": "People should check in with their grandparents every day during the coronavirus lockdown - Daily Mail",
+            "description": "Hans Kluge, WHO regional director for Europe, said it is 'everyone's business' to support the elderly - particularly those who live alone.",
+            "url": "https://www.dailymail.co.uk/news/article-8180971/People-check-grandparents-day-coronavirus-lockdown.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2020/04/02/16/26730332-0-image-a-7_1585839781383.jpg",
+            "publishedAt": "2020-04-02T16:45:33Z",
+            "content": "What is the coronavirus? \r\nA coronavirus is a type of virus which can cause illness in animals and people. Viruses break into cells inside their host and use them to reproduce itself and disrupt the body's normal functions. Coronaviruses are named after the L… [+10659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.ie"
+            },
+            "author": "Patrick Knox",
+            "title": "1.7million may have already had coronavirus in the UK as death toll rises to 2392 - The Irish Sun",
+            "description": "When will furlough payments be made? UK cases are now at over 33,000 - here's where coronavirus has spread to Latest news and updates from Scotland and",
+            "url": "http://www.thesun.ie/news/5262762/coronavirus-news-uk-live-updates/",
+            "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2020/04/dk-comp-off-platform-coronavirusV2-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2020-04-02T16:43:14Z",
+            "content": "THE UK coronavirus death toll has increased by 569 today to 2,961.\r\nThe biggest increase in deaths to date comes after NHS figures suggested more than 1.7million Brits may already have been infected by the virus.\r\nSince March 18, 1,496,651 people registered o… [+3689 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emmanuel Ocbazghi",
+            "title": "How COVID-19 affects people with diabetes, cancer, and other conditions - Business Insider - Business Insider",
+            "description": "You've heard it said over and over: The novel coronavirus is more likely to affect people with underlying conditions. But how?",
+            "url": "https://www.businessinsider.com/how-covid-19-affects-conditions-diabetes-asthma-cancer-underlying-copd-2020-3",
+            "urlToImage": "https://i.insider.com/5e8380572ff8395a6a332944?width=1200&format=jpeg",
+            "publishedAt": "2020-04-02T16:43:06Z",
+            "content": "Following is a transcript of the video.\r\nNarrator: You've heard it said over and over: The novel coronavirus is more likely to affect the elderly and people with underlying conditions. For the latter group...\r\nAmir Khan: That might have something to do with t… [+3835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Jim Waterson",
+            "title": "UK media outlets told not to promote baseless 5G coronavirus theories - The Guardian",
+            "description": "Broadcasters warned they face sanctions if they give airtime to false Covid-19 health advice",
+            "url": "https://www.theguardian.com/media/2020/apr/02/uk-media-outlets-told-not-to-promote-baseless-5g-coronavirus-theories",
+            "urlToImage": "https://i.guim.co.uk/img/media/2b3c7f59522e2a6f894c0f441bcebd07d850f47d/13_230_3534_2122/master/3534..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cffbac3bc903501f19fa1884c045d71",
+            "publishedAt": "2020-04-02T16:42:46Z",
+            "content": "British broadcasters are being warned that they face sanctions from the media regulator if they give airtime to false health advice about coronavirus, after a Sussex radio station was issued a severe warning for broadcasting baseless conspiracy theories that … [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dw.com"
+            },
+            "author": "Deutsche Welle (www.dw.com)",
+            "title": "Das Immunsystem im Kampf gegen Corona - Deutsche Welle",
+            "description": "Ein zentraler Spieler bei der Bekämpfung des Coronavirus ist unser Immunsystem. Es schützt uns gegen den Eindringling, kann sogar hilfreich für die Therapie werden. Manchmal jedoch wendet es sich auch gegen uns.",
+            "url": "https://www.dw.com/de/das-immunsystem-im-kampf-gegen-corona/a-52995923",
+            "urlToImage": "https://www.dw.com/image/52997023_304.jpg",
+            "publishedAt": "2020-04-02T16:41:18Z",
+            "content": "Wie reagiert unser Immunsystem auf das Coronavirus?\r\nDas Coronavirus ist - wie jedes Virus - nicht viel mehr als eine Hülle um genetisches Material und ein paar Proteine. Um sich zu vermehren, benötigt es einen Wirt in Form einer lebendigen Zelle. Einmal befa… [+13193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espreso.rs"
+            },
+            "author": "Espreso",
+            "title": "SITUACIJA U ITALIJI JE JEZIVA: U poslednja 24 sata umrlo 760 ljudi od virusa, novozaraženih je 4.668 - Espreso.rs",
+            "description": "Italija je već mesec dana zemlja sa najviše žrtava korona virusa",
+            "url": "https://www.espreso.rs/svet/planeta/536739/situacija-u-italiji-je-jeziva-u-poslednja-24-sata-umrlo-760-ljudi-od-virusa-novozarazenih-je-4-668",
+            "urlToImage": "https://www.espreso.rs/data/images/2020/02/24/12/724515_italija01-epa-filippo-venezia_ff.jpg",
+            "publishedAt": "2020-04-02T16:40:11Z",
+            "content": "U Italiji je u poslednja 24 sata umrlo 760 ljudi od korona virusa, ime se ukupan broj rtava u toj zemlji popeo na 13.915.\r\nPrema poslednjim podacima, novozaraenih je 4.668.\r\nItalija je ve mesec dana zemlja sa najvie rtava korona virusa.\r\nNajtea situacija je n… [+77 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Holly Christodoulou",
+            "title": "UK coronavirus death toll rises by 569 to 2,961 – including 44 people with NO underlying health conditions - The Sun",
+            "description": "",
+            "url": "http://www.thesun.co.uk/news/11310116/coronavirus-uk-death-rate-numbers/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/04/DD-COMPOSITE-NURSE-v3.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2020-04-02T16:40:02Z",
+            "content": "THE UK coronavirus death toll shot up by 569 today to 2,961 people - including 44 with no underlying health conditions.\r\nPositive cases for the deadly disease in the UK have also risen to 33,718 - up 4,244 from yesterday.\r\n Coronavirus deaths are continuing t… [+5058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gazeta.ru"
+            },
+            "author": null,
+            "title": "Ученые придумали, как отслеживать коронавирус по сточным водам - Газета.Ru",
+            "description": "Коронавирус в районе можно засечь по сточным водам еще до появления симптомов у жителей, выяснили нидерландские ученые. А их британские коллеги разработали быстрые и дешевые тесты, которые позволят это делать.",
+            "url": "https://www.gazeta.ru/science/2020/04/02_a_13033387.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/657/13033657/AP_20087564734991-pic905-895x505-56734.jpg",
+            "publishedAt": "2020-04-02T16:40:00Z",
+            "content": "KWR , SARS-CoV-2 , . , . MedRxiv.\r\n , , -. 6 , 5 , 15 16 — .\r\n , 50 - 5 , .\r\n , SARS-CoV-2 .\r\nSARS-CoV-2 , . , , .\r\n« , , , , , SARS-CoV-2 », — , . — , COVID-19 .\r\n , , , .\r\n , , , .\r\n SARS-CoV-2 . , .\r\n« , , , — . — , . , , . , , ».\r\n , , . — , — . , , — .\r\n… [+83 chars]"
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "Eric Favereau, Nathalie Raulin, Anaïs Moran",
+            "title": "Coronavirus : en Ile-de-France, «là on ne peut pas faire plus» - Libération",
+            "description": "Malgré les ajustements quotidiens et la réquisition de soignants de toute la France, les établissements franciliens sont sous pression et manquent toujours de lits. Ils tentent de se préparer au pic de l'épidémie attendu lundi.",
+            "url": "https://www.liberation.fr/france/2020/04/02/coronavirus-en-ile-de-france-la-on-ne-peut-pas-faire-plus_1783961",
+            "urlToImage": "https://medias.liberation.fr/photo/1304590-afp_1qb4mzjpg.jpg?modified_at=1585841195&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+            "publishedAt": "2020-04-02T16:39:52Z",
+            "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r\nportrait\r\nradio\r\nson\r\nalerte\r\ntop-100\r\nstar\r\nune\r\nvideo\r\nsc… [+398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futura-sciences.com"
+            },
+            "author": "Julien Hernandez",
+            "title": "Covid-19 : un premier vaccin efficace chez la souris - Futura",
+            "description": "La première ébauche d'un vaccin contre le SARS-CoV-2 vient de faire ses preuves chez la souris à l'Université de Pittsburgh.",
+            "url": "https://www.futura-sciences.com/sante/actualites/vaccin-covid-19-premier-vaccin-efficace-chez-souris-80358/",
+            "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/7/6/7/76755df229_50162047_vaccin-ebauche-covid19.jpg",
+            "publishedAt": "2020-04-02T16:39:02Z",
+            "content": "La première ébauche d'un vaccin contre le SARS-CoV-2 vient de faire ses preuves chez la souris à l'Université de Pittsburgh.\r\nUn vaccin contre le SARS-CoV-2 serait efficace chez la souris, c'est ce que rapport l'étude publiée dans la revue EBioMedicine, soute… [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Dan Sabbagh",
+            "title": "Labour urges UK government to publish findings of 2016 pandemic drill - The Guardian",
+            "description": "Conclusions from Exercise Cygnus, a simulation of a major flu pandemic, have never been released",
+            "url": "https://www.theguardian.com/world/2020/apr/02/labour-urges-government-publish-findings-2016-pandemic-drill",
+            "urlToImage": "https://i.guim.co.uk/img/media/d2c2f18e3165b61439e88da157970acd890be456/96_0_3537_2123/master/3537..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c05e9e1e73f1da3ecfd221a4afde845",
+            "publishedAt": "2020-04-02T16:38:48Z",
+            "content": "Labour has called on ministers to publish the suppressed conclusions of a cross-government pandemic drill that took place in 2016, which accurately predicted that the NHS would be plunged into crisis by an infectious and deadly disease.\r\nCodenamed Exercise Cy… [+5311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Dan Sabbagh",
+            "title": "Labour urges UK government to publish findings of 2016 pandemic drill - The Guardian",
+            "description": "Conclusions from Exercise Cygnus, a simulation of a major flu pandemic, have never been released",
+            "url": "https://www.theguardian.com/world/2020/apr/02/labour-urges-government-publish-findings-2016-pandemic-drill",
+            "urlToImage": "https://i.guim.co.uk/img/media/d2c2f18e3165b61439e88da157970acd890be456/96_0_3537_2123/master/3537..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c05e9e1e73f1da3ecfd221a4afde845",
+            "publishedAt": "2020-04-02T16:38:48Z",
+            "content": "Labour has called on ministers to publish the suppressed conclusions of a cross-government pandemic drill that took place in 2016, which accurately predicted that the NHS would be plunged into crisis by an infectious and deadly disease.\r\nCodenamed Exercise Cy… [+5311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Azinat.com"
+            },
+            "author": "redaction",
+            "title": "COVID-19 : Premier décès en Ariège selon l'ARS - Azinat.com TV",
+            "description": "Dans ce bulletin récapitulatif de ce jour 2 avril, l’Agence régionale de santé recense un total de 2 844  tests positifs de coronavirus en Occitanie, 983 hospitalisations en cours (dont 321 en réanimation) et 120 décès en établissements de santé. A ce jour, 6…",
+            "url": "https://www.azinat.com/2020/04/covid-19-premier-deces-en-ariege-selon-lars/",
+            "urlToImage": "https://www.azinat.com/wp-content/uploads/2020/04/@ARSOC_COVID-19_BulletinInfo25_20200402.jpg",
+            "publishedAt": "2020-04-02T16:38:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Austen Hufford",
+            "title": "3M CEO on N95 Masks: ‘Demand Exceeds Our Production Capacity’ - The Wall Street Journal",
+            "description": "As coronavirus crisis mounts, manufacturers ramp up to meet huge demand for protective equipment",
+            "url": "https://www.wsj.com/articles/3m-ceo-on-n95-masks-demand-exceeds-our-production-capacity-11585842928",
+            "urlToImage": "https://images.wsj.net/im-171926/social",
+            "publishedAt": "2020-04-02T16:37:10Z",
+            "content": "American manufacturers say it will be months before they meet demand for high-quality masks, part of a broader breakdown in the effort to supply enough protective gear and lifesaving equipment to fight the coronavirus pandemic.3M Co.\r\n and a half dozen smalle… [+6804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Caroline Davies, Josh Halliday, Sally Weale, Vikram Dodd",
+            "title": "Sunshine on way to UK but health officials stress: stay home - The Guardian",
+            "description": "Fears combination of sun and lockdown fatigue could lead to flouting of official guidance",
+            "url": "https://www.theguardian.com/uk-news/2020/apr/02/sunshine-uk-weather-health-officials-stay-home-lockdown",
+            "urlToImage": "https://i.guim.co.uk/img/media/3ea19d8791f7d62d0fc57f5edd02f69c08ec8692/0_79_3500_2101/master/3500..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab0f013fbfccca114b1301fd7fa15efe",
+            "publishedAt": "2020-04-02T16:36:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mb.com.ph"
+            },
+            "author": "Patrick Garcia",
+            "title": "French nursing home deaths soar since coronavirus outbreak - Manila Bulletin",
+            "description": "<p>Five hundred and seventy people have died in nursing homes in France’s eastern region during the coronavirus outbreak, suggesting the national death toll linked to the illness could be far higher than thought.</p>",
+            "url": "https://news.mb.com.ph/2020/04/03/french-nursing-home-deaths-soar-since-coronavirus-outbreak/",
+            "urlToImage": "https://news.mb.com.ph/wp-content/uploads/2020/04/images-5.jpeg",
+            "publishedAt": "2020-04-02T16:36:23Z",
+            "content": "By Reuters\r\nFive hundred and seventy people have died in nursing homes in Frances eastern region during the coronavirus outbreak, suggesting the national death toll linked to the illness could be far higher than thought.\r\nFrance on Wednesday became the fourth… [+3129 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Coronavirus à Alençon. Dominique, anxieux de nature, vit dans la peur du virus - Ouest-France",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc2FudGUvdmlydXMvY29yb25hdmlydXMvY29yb25hdmlydXMtYWxlbmNvbi1kb21pbmlxdWUtYW54aWV1eC1kZS1uYXR1cmUtdml0LWRhbnMtbGEtcGV1ci1kdS12aXJ1cy02Nzk4NjIy0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-04-02T16:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Patrick Knox",
+            "title": "Coronavirus LIVE updates: 1.7million may have already had Covid-19 in UK as death toll rises to 2,392 - The Sun",
+            "description": "When will furlough payments be made? UK cases are now at over 33,000 - here's where coronavirus has spread to Latest news and updates from Scotland and",
+            "url": "http://www.thesun.co.uk/news/11283723/coronavirus-news-uk-live-updates/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/04/dk-comp-off-platform-coronavirusV2-e1585832722982.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2020-04-02T16:34:59Z",
+            "content": "THE UK coronavirus death toll has increased by 569 today to 2,961.\r\nThe biggest increase in deaths to date comes after NHS figures suggested more than 1.7million Brits may already have been infected by the virus.\r\nSince March 18, 1,496,651 people registered o… [+3596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Patrick Knox",
+            "title": "Coronavirus LIVE updates: 1.7million may have already had Covid-19 in UK as death toll rises to 2,392 - The Sun",
+            "description": "When will furlough payments be made? UK cases are now at over 33,000 - here's where coronavirus has spread to Latest news and updates from Scotland and",
+            "url": "http://www.thesun.co.uk/news/11283723/coronavirus-news-uk-live-updates/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/04/dk-comp-off-platform-coronavirusV2-e1585832722982.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2020-04-02T16:34:59Z",
+            "content": "THE UK coronavirus death toll has increased by 569 today to 2,961.\r\nThe biggest increase in deaths to date comes after NHS figures suggested more than 1.7million Brits may already have been infected by the virus.\r\nSince March 18, 1,496,651 people registered o… [+3596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Birmingham man charged over 'I hope all NHS die' call - BBC News",
+            "description": "Matthew Wain allegedly called Birmingham City Hospital and said \"I hope the staff die of coronavirus\".",
+            "url": "https://www.bbc.com/news/uk-england-birmingham-52141923",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12ED/production/_105554840_amb3.jpg",
+            "publishedAt": "2020-04-02T16:34:06Z",
+            "content": "Image caption\r\n Matthew Wain allegedly made threats to staff at City Hospital in Birmingham\r\nA man who allegedly called a hospital and said \"I hope the staff die of coronavirus\" has been charged.\r\nMatthew Wain was arrested at a flat in Perry Barr, Birmingham,… [+454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diario.mx"
+            },
+            "author": "Associated Press",
+            "title": "Hospitales europeos enfrentan escasez de medicinas para Covid-19 - El Diario",
+            "description": "Relajantes musculares, sedantes y analgésicos se agotarían en dos días en los hospitales más afectados",
+            "url": "https://diario.mx/internacional/hospitales-europeos-enfrentan-escasez-de-medicinas-para-covid-19-20200402-1647406.html",
+            "urlToImage": "https://diario.mx/jrz/media/uploads/galeria/2020/04/02/20200402103456080-0-1647406.jpg",
+            "publishedAt": "2020-04-02T16:34:00Z",
+            "content": "Londres.- Nueve hospitales universitarios europeos advierten que se les agotarán los medicamentos esenciales para el tratamiento de enfermos de Covid-19 en cuidados intensivos en menos de dos semanas, a medida que se ven cada vez más abrumados por la pandemia… [+1427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Wendy Syfret",
+            "title": "Covid-19 and the already anxious: 'I have been covertly training for this stress marathon' - The Guardian",
+            "description": "As the world is engulfed by a once-in-a-century disaster, a long-term anxiety sufferer marvels at how well she is coping",
+            "url": "https://www.theguardian.com/lifeandstyle/2020/apr/03/covid-19-and-the-already-anxious-i-have-been-covertly-training-for-this-stress-marathon",
+            "urlToImage": "https://i.guim.co.uk/img/media/be62831a442f0f467ad16213316d9000f129baab/267_236_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d05093b1fd7dcfa234ecd9172040cc52",
+            "publishedAt": "2020-04-02T16:31:58Z",
+            "content": "Ive seen a psychologist for most of my life. In that time, Ive never struggled to find something to talk about. But this week, when the appointment reminder lit up my phone, I paused. It had been a month between visits. During the last session I easily looped… [+4828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clarin.com"
+            },
+            "author": "Clarín.com",
+            "title": "Coronavirus en Cuba: estudiantes de medicina buscan pacientes casa por casa - mundo - Clarín",
+            "description": "Cerca de 28.000 jóvenes recorren cada ciudad para detectar casos positivos de Covid-19. La isla registró 212 contagiados y seis muertos.",
+            "url": "https://www.clarin.com/mundo/coronavirus-cuba-estudiantes-medicina-buscan-pacientes-casa-casa_0_zibOxjhgp.html",
+            "urlToImage": "https://images.clarin.com/2020/03/31/una-medica-revisa-a-una___YOPdH92QW_1200x630__1.jpg",
+            "publishedAt": "2020-04-02T16:29:33Z",
+            "content": "Los servicios médicos de Cuba, duramente criticados por Estados Unidos y Brasil, reaparecen entre aplausos, incluso desde Europa, para combatir la pandemia de coronavirus, y dan impulso a un programa vital para el desarrollo de la isla.\r\nMás de 28.000 estudia… [+6512 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Number of people in Wales who have died after contracting coronavirus soars past 100 - Wales Online",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL25ld3MvaGVhbHRoL2Nvcm9uYXZpcnVzLWNvdmlkLTE5LXdhbGVzLWRlYXRocy0xODAyOTkyN9IBWGh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL25ld3MvaGVhbHRoL2Nvcm9uYXZpcnVzLWNvdmlkLTE5LXdhbGVzLWRlYXRocy0xODAyOTkyNy5hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-04-02T16:29:07Z",
+            "content": null
+        }
+    ]
 }

@@ -7,11 +7,10 @@ class Board extends Component {
 
     this.state = {
       category: props.category,
-      data: null,
-      spinner: 'Loading...' // make animation
+      data: props.data,
+      spinner: <div className="spinner">Loading...</div>
     }
-
-    this.fetchData = this.fetchData.bind(this);
+    // this.fetchData = this.fetchData.bind(this);
   }
 
   fetchData(category) {
@@ -19,7 +18,7 @@ class Board extends Component {
     if (category) {
       url += `/${category}`;
     }
-    console.log('URL:', url);
+    console.log('BOARD > URL:', url);
     fetch(url)
       .then((res) => res.json())
       .then((data) => this.setState({ 
@@ -33,7 +32,7 @@ class Board extends Component {
 
   componentDidUpdate(prevProps) {
     if (prevProps !== this.props) {
-      console.log('CATEGORY:', this.props.category);
+      console.log('BOARD > CATEGORY:', this.props.category);
       if (this.props.category) {
         this.fetchData(this.props.category);
       }
@@ -45,7 +44,6 @@ class Board extends Component {
   }
 
   render() {
-    console.log('CATEGORY:', this.state.category);
     const articles = this.state.data ? this.getArticles() : this.state.spinner;
     return (
       <div className="board">

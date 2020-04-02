@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800;900&family=Roboto+Slab:wght@400;700&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800;900&display=swap');
 
 body {
   margin: 0;
@@ -8,10 +8,10 @@ body {
 /* APP */
 
 .app {
-  margin: 15% auto auto auto;
+  margin: 15% auto 25px auto;
   width: 75%;
   background-color: #f1f1f1;
-  box-shadow: 10px 10px 10px 2px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 20px 2px rgba(0,0,0,0.75);
 }
 
 .app-header {
@@ -23,14 +23,25 @@ body {
   padding: 15px;
   text-align: center;
   font-family: 'Playfair Display', serif;
-  font-size: 60px;
+  font-size: 80px;
   font-size: 7vw;
   font-weight: 800;
   text-transform: uppercase;
   text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
 }
 
+.app-title > a {
+  color: #000000;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.app-title > a:hover {
+  color: #444444;
+}
+
 .app-line {
+  margin: 8px auto;
   border-top: 6px solid #000000;
   border-bottom: 1px solid #000000;
   border-left: none;
@@ -49,6 +60,7 @@ body {
 
 .categories {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-evenly;
   margin-bottom: 8px;
@@ -61,17 +73,34 @@ body {
   text-transform: uppercase;
   background-color: #000000;
   border: none;
-  font-size: 12px;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
   font-weight: bold;
   color: #eeeeee;
+  transition: 0.3s;
 }
 
 .category-btn:hover {
   cursor: pointer;
   background-color: #444444;
+  color: #ffffff;
+}
+
+.category-btn:focus {
+  outline: none;
+}
+
+.active {
+  background-color: #eeeeee;
+  color: #000000;
 }
 
 /* ARTICLES */
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
 
 .board {
   display: flex;
@@ -83,9 +112,12 @@ body {
   box-sizing: border-box;
   padding: 10px 20px;
   width: 33.3%;
-  font-family: 'Merriweather', serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  transition: 0.3s;
+  animation: fadein 2s;
 }
 
 .article-box:hover {
@@ -93,13 +125,15 @@ body {
 }
 
 .article-title {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  margin-bottom: 5px;
+  font-size: 18px;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 900;
+  text-align: justify;
 }
 
 .article-img {
+  min-width: 100%;
   max-width: 100%;
   filter: grayscale(100%);
 }
@@ -116,6 +150,13 @@ body {
 
 .read-more {
   text-align: right;
+}
+
+.spinner {
+  margin: auto;
+  padding: 10%;
+  text-align: center;
+  animation: fadein 1s infinite alternate;
 }
 
 /* MOBILE */
@@ -138,11 +179,11 @@ body {
   }
 
   .app-header {
-    font-size: 12vw;
+    margin: 0 10px;
   }
 
-  .app-line {
-    margin: 0 10px;
+  .app-title {
+    font-size: 12vw;
   }
 
   .article-box {
