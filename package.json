@@ -18,7 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src/**/*.js",
-    "dev": "nodemon server/server.js"
+    "dev": "nodemon mock-server.js",
+    "start-server": "node server.js"
   },
   "proxy": "http://localhost:8080",
   "eslintConfig": {

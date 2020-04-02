@@ -18,7 +18,7 @@ class Board extends Component {
     if (category) {
       url += `/${category}`;
     }
-    console.log('BOARD > URL:', url);
+
     fetch(url)
       .then((res) => res.json())
       .then((data) => this.setState({ 
@@ -31,11 +31,8 @@ class Board extends Component {
   }
 
   componentDidUpdate(prevProps) {
-    if (prevProps !== this.props) {
-      console.log('BOARD > CATEGORY:', this.props.category);
-      if (this.props.category) {
-        this.fetchData(this.props.category);
-      }
+    if (prevProps !== this.props && this.props.category) {
+      this.fetchData(this.props.category);
     }
   }
 
