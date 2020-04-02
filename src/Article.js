@@ -1,15 +1,28 @@
 import React from 'react';
 
+function cleanContent(content) {
+  if (content) return content.replace(/(\[\+.+\])/, '');
+}
+
+function handleImgError(e) {
+  e.target.style.display = "none";
+}
+
 function Article(props) {
   return (
     <div className="article-box">
       <h3 className="article-title">{props.article.title}</h3>
-      <hr/>
       {props.article.urlToImage &&
-      <img className="article-img" src={props.article.urlToImage} alt="article" />}
+      <img className="article-img" src={props.article.urlToImage} onError={handleImgError} alt="article" />}
       <p className="article-desc">{props.article.description}</p>
-      <p className="article-text">{props.article.content}</p>
-      <p className="read-more">Read more on: <a href={props.article.url}>{props.article.source.name}</a></p>
+      <p className="article-text">{cleanContent(props.article.content)}</p>
+      <div className="article-footer">
+        <p className="article-src">Source: <strong>{props.article.source.name}</strong></p>
+        <a className="read-more" href={props.article.url} target="_blank" rel="noopener noreferrer">
+          read full article
+        </a>
+      </div>
+      <hr/>
     </div>
   );
 }

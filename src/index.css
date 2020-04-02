@@ -9,13 +9,10 @@ body {
 
 .app {
   margin: 15% auto 25px auto;
+  padding: 0 20px;
   width: 75%;
   background-color: #f1f1f1;
   box-shadow: 10px 10px 20px 2px rgba(0,0,0,0.75);
-}
-
-.app-header {
-  margin: 0 20px;
 }
 
 .app-title {
@@ -51,7 +48,8 @@ body {
 
 .date {
   text-align: center;
-  font-size: 10px;
+  font-family: 'Playfair Display', serif;
+  font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -80,7 +78,7 @@ body {
   transition: 0.3s;
 }
 
-.category-btn:hover {
+.category-btn:hover, .read-more:hover {
   cursor: pointer;
   background-color: #444444;
   color: #ffffff;
@@ -103,29 +101,25 @@ body {
 }
 
 .board {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  column-count: 3;
+  column-gap: 1em;
 }
 
 .article-box {
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 100%;
   box-sizing: border-box;
-  padding: 10px 20px;
-  width: 33.3%;
   font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size: 14px;
   letter-spacing: 0.5px;
   transition: 0.3s;
-  animation: fadein 2s;
-}
-
-.article-box:hover {
-  background-color: #ffffff;
+  animation: fadein 2s forwards;
 }
 
 .article-title {
-  margin-bottom: 5px;
+  margin: 5px 0;
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 900;
@@ -148,8 +142,24 @@ body {
   text-align: justify;
 }
 
+.article-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.article-src {
+  display: inline;
+  margin: 5px 0;
+  font-size: 10px;
+}
+
 .read-more {
-  text-align: right;
+  padding: 10px 20px;
+  background-color: #000000;
+  color: #eeeeee;
+  text-transform: uppercase;
 }
 
 .spinner {
@@ -162,32 +172,25 @@ body {
 /* MOBILE */
 
 @media screen and (max-width: 1400px) {
-  .article-box {
-    box-sizing: border-box;
-    padding: 10px 20px;
-    width: 50%;
-  }
-
   .app {
     width: 80%;
   }
+
+  .board {
+    column-count: 2;
+  }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
   .app {
     width: 95%;
-  }
-
-  .app-header {
-    margin: 0 10px;
   }
 
   .app-title {
     font-size: 12vw;
   }
 
-  .article-box {
-    padding: 10px;
-    width: 100%;
+  .board {
+    column-count: 1;
   }
 }
