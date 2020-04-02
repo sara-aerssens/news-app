@@ -9,7 +9,7 @@ function Article(props) {
       <img className="article-img" src={props.article.urlToImage} alt="article" />}
       <p className="article-desc">{props.article.description}</p>
       <p className="article-text">{props.article.content}</p>
-      <p>Read more on: <a href={props.article.url}>{props.article.source.name}</a></p>
+      <p className="read-more">Read more on: <a href={props.article.url}>{props.article.source.name}</a></p>
     </div>
   );
 }
