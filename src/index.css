@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app-header {
+  text-align: center;
+}
+
+.board {
+  margin: auto;
+  padding: 30px;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  background-color: #eeeeee;
+}
+
+.article-box {
+  margin: 10px;
+  padding: 10px;
+  max-width: 300px;
+  background-color: white;
+  border: solid 1px black;
+}
+
+.article-title {
+  text-align: center;
+}
+
+.filter-box {
+  margin: 10px;
+  padding: 10px;
+  float: right;
+  border: solid 1px black;
+}

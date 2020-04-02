@@ -1,12 +1,15 @@
 import React from 'react';
-import './App.css';
+import Board from './Board';
+import Filter from './Filter';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="app">
+      <header className="app-header">
         <h1>News</h1>
       </header>
+      <Filter />
+      <Board />
     </div>
   );
 }
