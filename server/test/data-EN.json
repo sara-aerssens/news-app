@@ -1,0 +1,162 @@
+{
+  "status": "ok",
+  "totalResults": 756,
+  "articles": [
+      {
+          "source": {
+              "id": "the-hindu",
+              "name": "The Hindu"
+          },
+          "author": "The Hindu Net Desk",
+          "title": "Watch | Air quality improves amid lockdown in India",
+          "description": "A video on the improvement in air quality across the country amid the nationwide lockdown due to the COVID-19 pandemic",
+          "url": "https://www.thehindu.com/news/national/air-quality-improves-in-india-amid-lockdown/article31234638.ece",
+          "urlToImage": "https://www.thehindu.com/news/national/hjgp5o/article31235122.ece/ALTERNATES/LANDSCAPE_615/INDIA-GATEjpg",
+          "publishedAt": "2020-04-02T10:08:58.5174162Z",
+          "content": "India is currently under the biggest lockdown with around 130 crore people asked to stay home in view of the COVID-19 outbreak.\r\nAccording to the Centre-run System of Air Quality and Weather Forecasting and Research (SAFAR), the measures against COVID-19 have… [+512 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": null,
+          "title": "Coronavirus hits New York hard as Times Square looks like a 'disaster film' - CNN Video",
+          "description": "CNN's Richard Quest reports from New York City where streets and iconic landmarks are eerily empty as the novel coronavirus puts the city on lockdown. The US has reported over 5,000 deaths, according to Johns Hopkins University.",
+          "url": "http://us.cnn.com/videos/us/2020/04/02/us-new-york-coronavirus-covid-19-pandemic-times-square-subway-quest-pkg-intl-ldn-vpx.cnn",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200402095101-us-new-york-coronavirus-covid-19-pandemic-times-square-subway-quest-pkg-intl-ldn-vpx-00004510-super-tease.jpg",
+          "publishedAt": "2020-04-02T10:08:41.8374184Z",
+          "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+      },
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Germany conducting more than 50,000 coronavirus tests a day",
+          "description": "Other European nations struggle to match Berlin’s focus on finding out who has Covid-19",
+          "url": "https://www.ft.com/content/6a8d66a4-5862-4937-8d53-b2d10794e795",
+          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0c362ff8-4f30-4780-96c5-cc454daadf3a.jpg?source=next-opengraph&fit=scale-down&width=900",
+          "publishedAt": "2020-04-02T10:08:11.3321623Z",
+          "content": "German laboratories are conducting more than 50,000 coronavirus tests a day, according to data released on Wednesday that laid bare differences in strategy and capacity across Europe. \r\nThe Robert Koch Institute, which is co-ordinating Germany’s public health… [+4708 chars]"
+      },
+      {
+          "source": {
+              "id": "buzzfeed",
+              "name": "Buzzfeed"
+          },
+          "author": "Emma McAnaw",
+          "title": "31 Essentials To Keep On Hand If You're Working Remotely",
+          "description": "Because we never thought we'd be working full-time from our childhood bedroom.",
+          "url": "https://www.buzzfeed.com/emmamcanaw/essentials-on-hand-working-remotely",
+          "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-03/31/21/enhanced/7594a85e4dc2/original-398-1585691105-3.jpg?crop=1200:630;0,0",
+          "publishedAt": "2020-04-02T10:08:09.6625605Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "ign",
+              "name": "IGN"
+          },
+          "author": null,
+          "title": "Never Played... Final Fantasy 7 - Episode 1: Midgar Slums - IGN",
+          "description": "We all have that pile of shame, those games we should have played but just never have. This series gives us the chance to make that pile just a little bit shorter. Next up, we have Joe who's never played Final Fantasy 7. This week, we venture into the city of…",
+          "url": "https://www.ign.com/videos/never-played-final-fantasy-7-episode-1-midgar-slums",
+          "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/7/never-played-ff7-blog-1-1581090372449.jpg?width=1280",
+          "publishedAt": "2020-04-02T10:08:07.2302282Z",
+          "content": "How was your video watching experience?"
+      },
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": null,
+          "title": "British Airways set to suspend 32,000 staff amid coronavirus crisis",
+          "description": "Carrier is scrambling to cut costs as virus destroys demand for air travel",
+          "url": "https://www.ft.com/content/1f22a588-85ae-46f8-9c92-afa71c88b29b",
+          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf0be851-92c1-44cf-9fb1-80a44da69ce0.jpg?source=next-opengraph&fit=scale-down&width=900",
+          "publishedAt": "2020-04-02T10:08:06.5555816Z",
+          "content": "British Airways is expected to announce plans to suspend about 32,000 employees as the airline looks to slash costs in the wake of the coronavirus pandemic. \r\nThe airline is in talks with Unite, the union, about temporarily suspending staff, with an announcem… [+1059 chars]"
+      },
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Why testing offers a way to end the lockdowns",
+          "description": "Widespread screening will be complex and costly but crucial",
+          "url": "https://www.ft.com/content/d38d6e34-740a-11ea-95fe-fcd274e920ca",
+          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Ff80f4ef2-740b-11ea-90ce-5fb6c07a27f2?source=next-opengraph&fit=scale-down&width=900",
+          "publishedAt": "2020-04-02T10:07:59.64195Z",
+          "content": "More than a third of the world’s population has been urged to stay at home. Stock markets have collapsed and authorities have thrown vast sums of money at the global economy to stop it from plunging into depression. Yet the most chilling aspect of the coronav… [+3328 chars]"
+      },
+      {
+          "source": {
+              "id": "ign",
+              "name": "IGN"
+          },
+          "author": null,
+          "title": "Who's Who in Final Fantasy 7 Remake - IGN",
+          "description": "The highly anticipated Final Fantasy 7 Remake is almost here. If you aren't familiar with the 1997 original, here are some of the most important characters you'll want to get to know. Sponsored by Square Enix.",
+          "url": "https://www.ign.com/videos/whos-who-in-final-fantasy-7-remake",
+          "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/4/1/whoswho-thumb-1585754650855.png?width=1280",
+          "publishedAt": "2020-04-02T10:07:45.5564413Z",
+          "content": "How was your video watching experience?"
+      },
+      {
+          "source": {
+              "id": "cbc-news",
+              "name": "CBC News"
+          },
+          "author": "CBC News",
+          "title": "Ontario ICUs stressed by surge of COVID-19 cases",
+          "description": "A rise in COVID-19 cases in Ontario overruns the province's intensive care units, with projections of more to come.",
+          "url": "http://www.cbc.ca/player/play/1719234115970",
+          "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/166/431/covid19-toronto-concerns-daigle-010420.jpg",
+          "publishedAt": "2020-04-02T10:07:45.3692613Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-next-web",
+              "name": "The Next Web"
+          },
+          "author": "Callum Booth",
+          "title": "Please, won’t someone let me buy a kettlebell?",
+          "description": "Yeah, I had a gym membership. I’ve listened to a fair few Joe Rogan podcasts. I exercise. So, with the coronavirus lockdown in full effect, there was something I knew I had to do: Buy a kettlebell. If you aren’t aware of kettlebells (come on, haven’t you ever…",
+          "url": "https://thenextweb.com/plugged/2020/04/02/buy-a-kettlebell-fitness-coronavirus-lockdown/",
+          "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2Fheader-image-buy-a-kettlebell.png&signature=8adb2ea55d5dff235a3d2f314347970e",
+          "publishedAt": "2020-04-02T10:03:40Z",
+          "content": "Yeah, I had a gym membership. Ive listened to a fair few Joe Rogan podcasts. I exercise. So, with the coronavirus lockdown in full effect, there was something I knew I had to do: Buy a kettlebell.\r\nIf you arent aware of kettlebells (come on, havent you ever l… [+2302 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": "Al Jazeera",
+          "title": "Six-week-old dies as US coronavirus death toll crosses 5,000",
+          "description": "Infant taken to a Connecticut hospital late last week dies as US sets one-day record of 884 people killed in 24 hours.",
+          "url": "https://www.aljazeera.com/news/2020/04/week-dies-coronavirus-death-toll-crosses-5000-200402064226778.html",
+          "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/4/2/5df29fdbfd744950803f70412b937f31_18.jpg",
+          "publishedAt": "2020-04-02T10:03:33+00:00",
+          "content": "Death toll in the United States from the coronavirus pandemic has topped 5,000, with a six-week-old baby becoming one of the youngest known victims.\r\nAt about 02:35 GMT on Thursday, 5,116 people had died in the US, according to a tally from Johns Hopkins Univ… [+2402 chars]"
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "David Hodari",
+          "title": "Oil Leaps on Hopes for U.S. Action, End to Saudi-Russia Spat",
+          "description": "Prices supported by efforts by Trump administration toward measures to help the energy industry",
+          "url": "https://www.wsj.com/articles/oil-leaps-on-hopes-for-u-s-action-end-to-saudi-russia-spat-11585821756?mod=hp_lead_pos1",
+          "urlToImage": "https://images.wsj.net/im-171899/social",
+          "publishedAt": "2020-04-02T10:02:00Z",
+          "content": "Crude prices jumped Thursday on hopes for an end to the price war between Saudi Arabia and Russia and the possibility of action from the White House to mitigate the effects of last months vertiginous drops.\r\nBrent crude oil, the global benchmark, rose 10% to … [+229 chars]"
+      }
+  ]
+}

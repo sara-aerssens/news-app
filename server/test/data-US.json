@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Pippa Stevens",
+            "title": "Stock market live updates: Dow futures up 200, jobless claims top 6 million, oil jumps 10% - CNBC",
+            "description": "Stocks attempted a rebound on Thursday after the Dow Jones Industrial Average lost nearly 1,000 points on Wendesday.",
+            "url": "https://www.cnbc.com/2020/04/02/stock-market-live-today.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106459218-1585088002595face.jpg?v=1585764144",
+            "publishedAt": "2020-04-02T12:39:44Z",
+            "content": "9:00 am: Boeing offers voluntary layoffs to employees\r\nBoeing is offering buyout and early retirement packages to employees, according to a memo from Boeing Chief Executive Dave Calhoun. The memo says Boeing will offer a voluntary layoff plan that allows elig… [+5936 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Emiko Jozuka and Junko Ogura, CNN",
+            "title": "Japanese Prime Minister's coronavirus mask plan criticized as insufficient as emergency looms - CNN",
+            "description": "Japanese Prime Minister Shinzo Abe is facing a public backlash amid growing concern over medical shortages as the country faces a worsening coronavirus outbreak.",
+            "url": "https://www.cnn.com/2020/04/02/asia/japan-coronavirus-shinzo-abe-masks-hnk-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200402113542-01-abe-coronavirus-taskforce-super-tease.jpg",
+            "publishedAt": "2020-04-02T12:33:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Thursday - CNBC",
+            "description": "U.S. stock futures cut gains after the government reported another unprecedented number of Americans seeking unemployment benefits.",
+            "url": "https://www.cnbc.com/2020/04/02/5-things-to-know-before-the-stock-market-opens-april-2-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106468636-1585670809291gettyimages-1208727038.jpeg?v=1585670902",
+            "publishedAt": "2020-04-02T12:07:54Z",
+            "content": "1. Dow futures cut gains after huge jobless claims\r\nA passenger wears a protective mask at the Wall Street subway station in New York, on Monday, March 30, 2020.\r\nU.S. stock futures cut gains after the government reported another unprecedented number of Ameri… [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Allyson Chiu",
+            "title": "Shivering, hallucinating, beaten ‘like a piñata’: Chris Cuomo’s ‘haunted’ night with coronavirus - The Washington Post",
+            "description": "Cuomo's decision to chronicle the misery of being afflicted with a potentially deadly disease, describing his symptoms live and in realtime, appears to be an unprecedented move among network anchors.",
+            "url": "https://www.washingtonpost.com/nation/2020/04/02/chris-cuomo-coronavirus-symptoms/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/9IegrlA7umCL0IDostdnCF6M7Bk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQV6RC5I3VELJDPSBUZYCO45A4.png",
+            "publishedAt": "2020-04-02T11:48:24Z",
+            "content": "Let me be proof: Chris Cuomo, a little paler, broadcasts from his basement after testing positive for covid-19\r\nThe cause of Cuomos insomnia?\r\nThis virus came at me. Ive never seen anything like it, Cuomo said, telling viewers that he was racked with a fever … [+5352 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nicholas Wu",
+            "title": "Anthony Fauci to get a security detail after facing threats, reports say - USA TODAY",
+            "description": "The 79-year-old doctor has been one of the most high-profile members of President Donald Trump's response to the coronavirus.",
+            "url": "https://www.usatoday.com/story/news/politics/2020/04/02/coronavirus-fauci-get-security-detail-after-facing-threats/5110445002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/03/20/USAT/527e70d9-99b5-4d48-958b-8c6af96195ac-AP_Trump_Virus_Outbreak.JPG?crop=1023,576,x0,y68&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-04-02T11:45:19Z",
+            "content": "There is a lot of misinformation out there about coronavirus. We sort the facts from falsehoods.\r\nWochit\r\nDr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, will get a security detail amid increased threats to his securi… [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bostonglobe.com"
+            },
+            "author": null,
+            "title": "Bill Belichick's message for surviving coronavirus: 'Let's keep stringing good days together' - msnNOW",
+            "description": "Belichick praised medical professionals who are 'selflessly and courageously doing their job.'",
+            "url": "https://www.bostonglobe.com/2020/04/01/sports/bill-belichicks-message-surviving-coronavirus-lets-keep-stringing-good-days-together/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rSyQACJKoa_DM4fInKUuB45Dnrc=/506x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/P7NLBPXXYMI6PJT2YHAV5NPT7Q.jpg",
+            "publishedAt": "2020-04-02T11:29:00Z",
+            "content": "Patriots coach Bill Belichick released a video through the teams Twitter account Wednesday, offering support to medical workers on the front lines in the battle against the coronavirus and some advice for how to get through the pandemic. \r\nHeres what he said:… [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "39 US states have ordered residents home after experts continue pushing for aggressive measures to fight coronavirus - CNN",
+            "description": "Coronavirus deaths across the US have topped 5,000 and all but 11 states have issued sweeping orders for residents to stay home -- affecting nearly 90% of the country's population.",
+            "url": "https://www.cnn.com/2020/04/02/health/us-coronavirus-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200402031714-shelter-in-place-illinois-0323-super-tease.jpg",
+            "publishedAt": "2020-04-02T11:23:47Z",
+            "content": "(CNN)Coronavirus deaths across the US have topped 5,000 and all but 11 states have issued sweeping orders for residents to stay home -- affecting nearly 90% of the country's population.\r\n\"What are you waiting for? What more evidence do you need? If you think … [+7191 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for April 2: Coronavirus, health, guns, NASA, Daniel Pearl - CNN",
+            "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+            "url": "https://www.cnn.com/2020/04/02/us/five-things-april-2-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200402031651-shelter-in-place-california-0325-super-tease.jpg",
+            "publishedAt": "2020-04-02T11:14:46Z",
+            "content": "(CNN)The Democratic convention is a little more than 100 days away. Joe Biden says it's difficult to imagine it will go on as planned, given coronavirus measures. \r\nHere's what you need to know to Get Up to Speed and On with Your Day. \r\n(You can also get \"5 T… [+4961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendolife.com"
+            },
+            "author": "Nintendo Life",
+            "title": "Random: Animal Crossing: New Horizons' Easter Bunny Really Doesn't Like His Job - Nintendo Life",
+            "description": "Give Zipper a break, will ya?",
+            "url": "http://www.nintendolife.com/news/2020/04/random_animal_crossing_new_horizons_easter_bunny_really_doesnt_like_his_job",
+            "urlToImage": "http://images.nintendolife.com/f77135118c8ca/1280x720.jpg",
+            "publishedAt": "2020-04-02T11:00:00Z",
+            "content": "With Animal Crossing: New Horizons' Bunny Day event now in full swing, it's hard not to notice the brand new elephant - or rabbit - in the room. Yes, Zipper has been bouncing around everyone's island over the past day or so, and he's incredibly enthusiastic a… [+1316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Spain reports 950 coronavirus deaths in 24 hours - Al Jazeera English",
+            "description": "For the second day, Spain has recorded its highest daily death toll as infections globally rise to over 938,000 The death toll from the coronavirus pandemic ...",
+            "url": "https://www.youtube.com/watch?v=uEdNsXU3K7k",
+            "urlToImage": "https://i.ytimg.com/vi/uEdNsXU3K7k/maxresdefault.jpg",
+            "publishedAt": "2020-04-02T10:56:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Rachel England",
+            "title": "NASA successfully deploys the James Webb Telescope's enormous mirror - Engadget",
+            "description": "The huge mirror of NASA's James Webb Space Telescope -- its successor to Hubble -- has been successfully tested for the first time, putting it one step closer to its eventual launch, which is slated for 2021. Like Hubble -- which has long outlived its origina…",
+            "url": "https://www.engadget.com/2020-04-02-nasa-successfully-deploys-the-james-webb-telescopes-enormous-mi.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2FFwD3wOIAerDVn1Z4EuZvsQ--%7EB%2Fdz0xNjAwO2g9MTA5MjthcHBpZD15dGFjaHlvbg--%2Fhttps%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2710%252C1849%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1092%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fc03dfa10-ca37-11e9-bbee-3504bca6afe2%26client%3Da1acac3e1b3290917d92%26signature%3D1e7ce57eab082d7170031d6e13b206fc17a40a42&client=amp-blogside-v2&signature=39a349568769cacd4c27d64c91ec68a4473e15ff",
+            "publishedAt": "2020-04-02T10:41:03Z",
+            "content": "Getting the new telescope to this stage has been a challenging endeavor for NASA -- its launch was initially scheduled for 2018, but the intricacy of construction, number of parts needed and the fact that it's the most complex telescope built to date meant it… [+1213 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Top US senator warns Saudi Arabia over oil price war with Russia - Al Jazeera English",
+            "description": "Republican Dan Sullivan calls on Riyadh to end price war, reminding its ally of US role in defending the kingdom.",
+            "url": "https://www.aljazeera.com/news/2020/04/top-senator-warns-saudi-arabia-oil-price-war-russia-200402064104341.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/4/2/cb1fedb8beb04e4d9b5c3d0537d81033_18.jpg",
+            "publishedAt": "2020-04-02T10:38:31Z",
+            "content": "The strategic relationship between the United States and Saudi Arabia may change if Riyadh does not end its oil price war with Russia, a leading US senator from oil-rich Alaska state has warned.\r\n\"The Saudis have really brought in a supply shock at exactly th… [+3356 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "SoftBank terminates $3BN tender offer for WeWork shares - TechCrunch",
+            "description": "SoftBank Group has pulled a $3 billion tender offer for WeWork shares — citing closing conditions not being met. The investment behemoth had been rumoured to be getting cold feet, when the WSJ reported last month that it was using regulatory investigations as…",
+            "url": "http://techcrunch.com/2020/04/02/softbank-terminates-3bn-tender-offer-for-wework-shares/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-945572064.jpg?w=599",
+            "publishedAt": "2020-04-02T10:12:03Z",
+            "content": "SoftBank Group has pulled a $3 billion tender offer for WeWork shares — citing closing conditions not being met.\r\nThe investment behemoth had been rumoured to be getting cold feet, when the WSJ reported last month that it was using regulatory investigations a… [+6027 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brad Brooks",
+            "title": "Why is New Orleans' coronavirus death rate seven times New York's? Obesity is a factor - Reuters",
+            "description": "The coronavirus has been a far deadlier threat in New Orleans than the rest of the United States, with a per-capita death rate much higher than in New York City. Doctors, public health officials and available data say the Big Easy's high levels of obesity and…",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-new-orleans-idUSKBN21K1B0",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200402&t=2&i=1511439617&w=1200&r=LYNXMPEG310VY",
+            "publishedAt": "2020-04-02T10:07:00Z",
+            "content": "(Reuters) - The coronavirus has been a far deadlier threat in New Orleans than the rest of the United States, with a per-capita death rate much higher than in New York City. Doctors, public health officials and available data say the Big Easy’s high levels of… [+4656 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "https://www.facebook.com/Annapalmerpolitico/, https://www.facebook.com/Jakeshermanpolitico",
+            "title": "POLITICO Playbook: The White House gives Dems an opening - Politico",
+            "description": "And Anthony Fauci gets more security.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/04/02/the-white-house-gives-dems-an-opening-488780",
+            "urlToImage": "https://static.politico.com/03/90/cd31ee3f45a895cd4fe215004c93/gettyimages-1216288489.jpg",
+            "publishedAt": "2020-04-02T09:54:00Z",
+            "content": "Democrats again believe they have a potent weapon to wield against President Donald Trump and the White House: health care. | Win McNamee/Getty Images\r\nDRIVING THE DAY\r\nTHE 2020 ELECTION IS 220 DAYS AWAY, and it is shaping up to be the strangest campaign for … [+24461 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "The first Harry Potter audiobook voiced by Stephen Fry is now free to stream - The Verge",
+            "description": "Harry Potter and the Philosopher’s Stone is now free to stream on Audible as part of a series of initiatives launched to keep everyone entertained while they’re cooped up at home. Better yet, it’s the version narrated by Stephen Fry.",
+            "url": "https://www.theverge.com/2020/4/2/21204022/harry-potter-philosophers-stone-audiobook-stephen-fry-audible-coronavirus-free-teachers-read-a-long",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/J5Lczbem3xM6765TVYx4_-9tOmI=/0x150:2100x1249/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/5906345/slack-imgs.com.0.jpeg",
+            "publishedAt": "2020-04-02T09:42:22Z",
+            "content": "Available now on Audible\r\nImage: Warner Bros\r\nHarry Potter and the Philosophers Stone, which was released as Harry Potter and the Sorcerers Stone in the US, is now free to stream on Audible. Its part of a series of initiatives launched by JK Rowling and frien… [+1843 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "Intel's 10th-gen H-series laptop CPUs reach 5.3GHz - Engadget",
+            "description": "Just like Intel said at CES, it's crossed the 5GHz barrier with its new H-series 10th generation notebook CPUs. And you won't need to shell out for the top-of-the-line Core i9 to do it: The new six and eight-core i7 processors reach up to 5.1Ghz (boost speed)…",
+            "url": "https://www.engadget.com/2020-04-02-intel-10th-gen-h-series-5ghz.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2Fqz0w.C5ZeIcjO8uSjvU3kw--%7EB%2Fdz0xNjAwO2g9MTA2NzthcHBpZD15dGFjaHlvbg--%2Fhttps%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4841%252C3227%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F60c49a50-3047-11ea-947f-16712b748ca2%26client%3Da1acac3e1b3290917d92%26signature%3D253bc57c89858a80b3824072a4f57143c86656b4&client=amp-blogside-v2&signature=51380e49ccbd9bcb992db235e9875761852bf73f",
+            "publishedAt": "2020-04-02T07:27:01Z",
+            "content": "As usual, these H-series chips are meant for gaming and workhorse machines, not laptops where battery efficiency is key. You can expect around 44 percent better performance in Assassin's Creed Odyssey in 1080p with high settings, compared to the three-year-ol… [+890 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Sam Machkovech",
+            "title": "It’s a “tock” year: New Nvidia laptop GPUs in 25 OEMs’ systems this month - Ars Technica",
+            "description": "Getting the most of Max-Q Turing: \"We want every half-watt savings to drive the GPU.\"",
+            "url": "https://arstechnica.com/gadgets/2020/04/its-a-tock-year-new-nvidia-laptop-gpus-in-25-oems-systems-this-month/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/506985e7cf3f4e824d6.61456128-Blade-Adv-Mercury-2020.LEFT_-760x380.png",
+            "publishedAt": "2020-04-02T07:01:00Z",
+            "content": "2 with 2 posters participating\r\n<ul><li>\r\n Here's a gallery of April 2020 laptops with the latest Nvidia Max-Q GPUs. First up, the Razer Blade Advanced, with an RTX 2080 Super inside. \r\n</li><li>\r\n The Acer Nitro 5, which will start at $999 with an RTX 2060 G… [+7709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sciencealert.com"
+            },
+            "author": "Peter Dockrill",
+            "title": "Scientists Have Unearthed Traces of an Ancient Rainforest In... Antarctica - ScienceAlert",
+            "description": "Since time immemorial, Earth's poles have resembled frozen wastelands. Life can and does exist there, but there are sound reasons why humans and most other animals cling to the safety of more hospitable climates closer to the equator.",
+            "url": "https://www.sciencealert.com/discovery-of-ancient-rainforest-in-antarctica-is-a-grim-warning-of-earth-s-future",
+            "urlToImage": "https://www.sciencealert.com/images/2020-04/processed/010-rainforest-antarctica-0_1024.jpg",
+            "publishedAt": "2020-04-02T05:55:03Z",
+            "content": "Since time immemorial, Earth's poles have resembled frozen wastelands. Life can and does exist there, but there are sound reasons why humans and most other animals cling to the safety of more hospitable climates closer to the equator.\r\nThey were not always wa… [+5006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nypost.com"
+            },
+            "author": "Associated Press",
+            "title": "LA Mayor Eric Garcetti urges residents to wear masks to slow down coronavirus spread - New York Post ",
+            "description": "LOS ANGELES — The mayor of Los Angeles on Wednesday told everyone in the nation’s second-largest city to start wearing masks to combat the coronavirus, but California’s governor isn’t ready to take…",
+            "url": "https://nypost.com/2020/04/01/los-angeles-mayor-urges-residents-to-wear-masks-to-stem-coronavirus-spread/",
+            "urlToImage": "https://thenypost.files.wordpress.com/2020/04/lamayor.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2020-04-02T03:43:51Z",
+            "content": "LOS ANGELES The mayor of Los Angeles on Wednesday told everyone in the nations second-largest city to start wearing masks to combat the coronavirus, but Californias governor isnt ready to take that idea statewide.\r\nGov. Gavin Newsom said Wednesday hes focused… [+5454 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "Social Security Recipients Won't Need Tax Returns to Claim Stimulus Checks, Administration Says After Outcry - Newsweek",
+            "description": "The Trump administration announced Wednesday night that Social Security recipients will \"need to take no action\" to receive the $1,200 payment, reversing an earlier decision that would have required...",
+            "url": "https://www.newsweek.com/social-security-recipients-wont-need-tax-returns-claim-stimulus-checks-administration-says-1495660",
+            "urlToImage": "https://d.newsweek.com/en/full/1578424/mnuchin-trump.jpg",
+            "publishedAt": "2020-04-02T03:35:59Z",
+            "content": "Social Security recipients are set to automatically receive their coronavirus relief stimulus payments after the government reversed course on a decision that cause widespread outcry from lawmakers and advocacy groups.\r\nBacklash ensued after the IRS indicated… [+2841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: BA expected to suspend 36,000 staff - BBC News",
+            "description": "The airline reaches a deal with unions to furlough 80% of its workforce after grounding most of its fleet.",
+            "url": "https://www.bbc.com/news/business-52130021",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D963/production/_111515655_gettyimages-1215333445.jpg",
+            "publishedAt": "2020-04-02T03:17:47Z",
+            "content": "Image copyrightGetty Images\r\nBritish Airways is expected to announce it will suspend around 36,000 staff. \r\nThe airline, which grounded much of its fleet due to the coronavirus crisis, has been negotiating with the Unite union for more than a week. \r\nThe two … [+3955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamesradar.com"
+            },
+            "author": "Jordan Gerblick",
+            "title": "Tiger King's Joe Exotic apparently wants Brad Pitt or David Spade (AKA Joe Dirt) to play him in a potential TV show or movie - GamesRadar+",
+            "description": "Joe Exotic himself wants some big names to play him in a potential Tiger King movie or scripted TV series",
+            "url": "https://www.gamesradar.com/tiger-king-joe-exotic-brad-pitt-david-spade-joe-dirt/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/s6VSuiLwP9MuMb6uo9NEdN-1200-80.jpg",
+            "publishedAt": "2020-04-02T03:15:00Z",
+            "content": "If a scripted TV show or movie based on Tiger King were to be made, the titular big cat oddball himself apparently knows who should play him. According to one of the Netflix series' directors, Joe Allen Maldonado-Passage, AKA Joe Exotic, fancies himself a Bra… [+1294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kdvr.com"
+            },
+            "author": "Deborah Takahara",
+            "title": "42 animals rescued from ‘Tiger King’ zoo in Oklahoma now at sanctuary in Colorado - FOX 31 Denver",
+            "description": "KEENESBURG, Colo. (KDVR) — If you are one of the millions fascinated by the wild Netflix documentary, “Tiger King: Murder, Mayhem and Madness,” you may be wondering what happened …",
+            "url": "https://kdvr.com/news/coronavirus/42-animals-rescued-from-tiger-king-zoo-in-oklahoma-now-at-sanctuary-in-colorado/",
+            "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2020/04/promo410054588.jpg?w=1280&h=720&crop=1",
+            "publishedAt": "2020-04-02T02:46:19Z",
+            "content": "KEENESBURG, Colo. (KDVR) -- If you are one of the millions fascinated by the wild Netflix documentary, \"Tiger King: Murder, Mayhem and Madness,\" you may be wondering what happened to the animals from the roadside zoo in rural Oklahoma. Dozens of them were res… [+2797 chars]"
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Elizabeth Cohen, Senior Medical Correspondent",
+          "title": "Experts tell White House coronavirus can spread through talking or even just breathing - CNN",
+          "description": "A prestigious scientific panel told the White House Wednesday night that research shows coronavirus can be spread not just by sneezes or coughs, but also just by talking, or possibly even just breathing.",
+          "url": "https://www.cnn.com/2020/04/02/health/aerosol-coronavirus-spread-white-house-letter/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200330012544-01-coronavirus-new-york-0329-super-tease.jpg",
+          "publishedAt": "2020-04-02T11:55:13Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo.com"
+          },
+          "author": "Alexander Nazaryan",
+          "title": "Two years before coronavirus, CDC warned of a coming pandemic - Yahoo News",
+          "description": "Long before the coronavirus emerged in Wuhan, China, and then soon spread to nearly every country on Earth, a conference in  2018 offered proof that epidemio...",
+          "url": "https://news.yahoo.com/two-years-before-coronavirus-cdc-warned-of-a-coming-pandemic-090054010.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bG8yNxqMgG4D6d76lUS.zA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjA-/https://s.yimg.com/uu/api/res/1.2/IiSXpmqdPtOCtiyuB32Jfg--~B/aD03NTY7dz0xMzQ0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-04/b2f8a2f0-7456-11ea-9fef-7f2556d918af",
+          "publishedAt": "2020-04-02T11:45:02Z",
+          "content": "WASHINGTON Two years ago, some of the nations top public health officials gathered in an auditorium at Emory University in Atlanta to commemorate the 1918 influenza pandemic also known as the Spanish flu which had killed as many as 40 million people as it swe… [+11065 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nypost.com"
+          },
+          "author": "Yaron Steinbuch",
+          "title": "Anti-malaria drug helps speed up recovery of coronavirus patients: study - New York Post ",
+          "description": "The antimalarial drug hydroxychloroquine has shown promise in treating the coronavirus – helping to speed up the recovery of a small number of patients suffering a mild form of the illness, accordi…",
+          "url": "https://nypost.com/2020/04/02/antimalaria-drug-speeds-up-recovery-of-coronavirus-patients-study/",
+          "urlToImage": "https://thenypost.files.wordpress.com/2020/04/hydroxychloroquine-93.jpg?quality=90&strip=all&w=1200",
+          "publishedAt": "2020-04-02T11:22:28Z",
+          "content": "The antimalarial drug hydroxychloroquine has shown promise in treating the coronavirus helping to speed up the recovery of a small number of patients suffering a mild form of the illness, according to a report.\r\nIn a study published online this week, Chinese … [+2405 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox8.com"
+          },
+          "author": null,
+          "title": "University of Pittsburgh Medical Center to discuss potential coronavirus vaccine - WJW FOX 8 News Cleveland",
+          "description": "There is currently no treatment or vaccine for COVID-19, but we are expecting to learn more about advancements in that area Thursday when researchers at the University of Pittsburgh Medical Center …",
+          "url": "https://fox8.com/news/coronavirus/university-of-pittsburgh-medical-center-to-discuss-potential-coronavirus-vaccine/",
+          "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2020/04/GettyImages-1208916814.jpg?w=594&h=396&crop=1&resize=1280,720",
+          "publishedAt": "2020-04-02T10:17:53Z",
+          "content": "PITTSBURGH, Pennsylvania (WJW) – There is currently no treatment or vaccine for COVID-19, but we are expecting to learn more about advancements in that area Thursday.\r\nUniversity of Pittsburgh Medical Center (UPMC) reports it will be holding an update Thursda… [+418 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Brad Brooks",
+          "title": "Why is New Orleans' coronavirus death rate seven times New York's? Obesity is a factor - Reuters",
+          "description": "The coronavirus has been a far deadlier threat in New Orleans than the rest of the United States, with a per-capita death rate much higher than in New York City. Doctors, public health officials and available data say the Big Easy's high levels of obesity and…",
+          "url": "https://www.reuters.com/article/us-health-coronavirus-new-orleans-idUSKBN21K1B0",
+          "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200402&t=2&i=1511439617&w=1200&r=LYNXMPEG310VY",
+          "publishedAt": "2020-04-02T10:07:00Z",
+          "content": "(Reuters) - The coronavirus has been a far deadlier threat in New Orleans than the rest of the United States, with a per-capita death rate much higher than in New York City. Doctors, public health officials and available data say the Big Easy’s high levels of… [+4656 chars]"
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Brie Stimson",
+          "title": "Australia begins testing 2 potential coronavirus vaccines, including one from US - Fox News",
+          "description": "Australian scientists reportedly announced Thursday the country's national science agency has started the first stage of testing for two potential coronavirus vaccines, including one made by a U.S. company.",
+          "url": "https://www.foxnews.com/world/australia-begins-testing-2-potential-coronavirus-vaccines-including-one-made-by-us-company",
+          "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2727977e-1f44-4f08-b910-9573329842be/2202eaa1-1bbb-4094-a513-a17dfc6cc777/1280x720/match/image.jpg",
+          "publishedAt": "2020-04-02T09:04:08Z",
+          "content": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here.\r\nAustralian scientists announced Thursday that the country's national science agency has started the first stage of testing for two potential coronavirus vaccines, in… [+1556 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Scmp.com"
+          },
+          "author": null,
+          "title": "Coronavirus treatments and vaccine trials in the works - South China Morning Post",
+          "description": "Proposed antiviral treatments and potential vaccines are already in the experimental phase, just months after the coronavirus was identified. Here is a snapshot of some of them.",
+          "url": "https://www.scmp.com/week-asia/explained/article/3078067/coronavirus-treatments-and-vaccine-trials-works",
+          "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/methode/2020/04/02/27d661ae-741e-11ea-ab8f-988daf8efd6f_image_hires_123627.jpg?itok=cOtcbvjU&v=1585802198",
+          "publishedAt": "2020-04-02T08:13:30Z",
+          "content": "Published: 12:20pm, 2 Apr, 2020\r\nUpdated: 12:36pm, 2 Apr, 2020"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Abc30.com"
+          },
+          "author": "Nathalie Granda",
+          "title": "Employee claims eight COVID-19 cases at Visalia nursing home could have been avoided - KFSN-TV",
+          "description": "The employee also claims the none of the employees were notified about the outbreak, and that they weren't given crucial protective gear until Wednesday.",
+          "url": "https://abc30.com/visalia-health-center-redwood-coronavirus-springs-healthcare/6069118",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/6070220_040120-kfsn-11p-redwood-vid.jpg?w=1600",
+          "publishedAt": "2020-04-02T07:26:59Z",
+          "content": "VISALIA, Calif. (KFSN) -- Eight people out of a Visalia Healthcare facility are some of the latest to test positive for COVID-19.Redwood Springs Healthcare Center officials along with Public Health workers say six patients and two healthcare professionals wit… [+1582 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Latimes.com"
+          },
+          "author": "Jack Dolan",
+          "title": "Coronavirus: Skilled nursing facilities ordered to accept coronavirus patients - Los Angeles Times",
+          "description": "California nursing home administrators and advocates for the elderly were alarmed by the move.",
+          "url": "https://www.latimes.com/california/story/2020-04-01/california-orders-skilled-nursing-facilities-to-accept-coronavirus-patients",
+          "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/d1f54cb/2147483647/strip/true/crop/5760x3024+0+408/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1c%2F2e%2F08435f8f4494a20a460ebed5feb5%2Fla-photos-1staff-512522-me-coronavirus-hospitals-nursing-homes-jja-0008.JPG",
+          "publishedAt": "2020-04-02T05:35:04Z",
+          "content": "As fears escalate about the toll the coronavirus will take on the sick and elderly in nursing homes who are among the most vulnerable to the deadly virus California regulators have told skilled nursing facility operators that they must accept patients even if… [+3589 chars]"
+      },
+      {
+          "source": {
+              "id": "cbs-news",
+              "name": "CBS News"
+          },
+          "author": "Musadiq Bidar",
+          "title": "3D-printing facility in California stepping in to help with face shields in fight against coronavirus - CBS News",
+          "description": "In the race to meet the high demand for personal protective equipment, these 3D-printed face shields can serve as a lifeline for those on the frontlines battling COVID-19.",
+          "url": "https://www.cbsnews.com/news/3d-printing-facility-helping-produce-face-shields-in-fight-against-coronavirus/",
+          "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/04/02/599de3c4-7960-4c6b-af2d-c3ba8856102b/thumbnail/1200x630g4/7f1d0a07b8264f954eea0deef2e4e33d/combo-doctor-face-shield-3d-printing.jpg",
+          "publishedAt": "2020-04-02T04:17:53Z",
+          "content": "What began as a simple tweet challenging engineers and entrepreneurs in Silicon Valley to help health care workers during coronavirus has now turned into a community-led operation. The goal is to build thousands of 3D-printed face shields for doctors and nurs… [+5574 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Chron.com"
+          },
+          "author": "Sonia Ramirez",
+          "title": "Tips to clean your car to reduce the spread of COVID-19 - Chron",
+          "description": "As coronavirus cases increase across the area, cleaning and disinfecting not only your home but your car is important to reduce the spread of the virus.",
+          "url": "https://www.chron.com/houston/article/Tips-to-clean-your-car-to-reduce-the-spread-of-15171997.php",
+          "urlToImage": "https://s.hdnux.com/photos/01/11/33/37/19249142/5/rawImage.jpg",
+          "publishedAt": "2020-04-02T03:53:57Z",
+          "content": "<ul><li>Follow the lead of these Harris County deputies and keep your car clean to prevent the spread of coronavirus.\r\n&gt;&gt;&gt;PHOTOS: Common-sense tips to avoid catching coronavirus while shopping...\r\nFollow the lead of these Harris County deputies and k… [+2761 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "10tv.com"
+          },
+          "author": "https://www.facebook.com/CBSNews",
+          "title": "New York man hid coronavirus symptoms to visit wife in maternity ward - 10TV",
+          "description": "University of Rochester Medical Center officials said on Tuesday that they found about it after the woman displayed symptoms of COVID-19.",
+          "url": "https://www.10tv.com/article/new-york-man-hid-coronavirus-symptoms-visit-wife-maternity-ward-2020-apr",
+          "urlToImage": "https://www.10tv.com/sites/default/files/styles/article_image/public/2020/03/13/gurneyhospital.jpg?itok=Qz7txot8",
+          "publishedAt": "2020-04-02T03:44:02Z",
+          "content": "A New York man hid his coronavirus symptoms from the hospital so he could visit his wife in a maternity ward.\r\nUniversity of Rochester Medical Center officials said on Tuesday that they found about it after the woman displayed symptoms of COVID-19. \r\nAccordin… [+1691 chars]"
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Dom Calicchio",
+          "title": "Oregon veteran survives coronavirus, celebrates 104th birthday - Fox News",
+          "description": "It was a very happy 104th birthday for U.S. military veteran William Lapschies on Wednesday. The Lebanon, Ore., resident celebrated with family members after surviving a recent bout with the coronavirus, according to media reports.",
+          "url": "https://www.foxnews.com/health/oregon-veteran-survives-coronavirus-celebrates-104th-birthday",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/birthday-cake-with-candles.jpg",
+          "publishedAt": "2020-04-02T03:16:38Z",
+          "content": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here.\r\nIt was a very happy 104th birthday for World War II veteran William Lapschies on Wednesday.\r\nThe Lebanon, Ore., resident celebrated with family members after survivi… [+1287 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kget.com"
+          },
+          "author": "Amber Frias",
+          "title": "Kern patients say they are being denied COVID-19 testing - KGET 17",
+          "description": "BAKERSFIELD, Calif. (KGET) – Many people tell 17 news that they are being denied a COVID-19 test despite showing symptoms.  Dave Anderson’s 18-year-old daughter started feeling sic…",
+          "url": "https://www.kget.com/health/coronavirus/kern-patients-say-they-are-being-denied-covid-19-testing/",
+          "urlToImage": "https://www.kget.com/wp-content/uploads/sites/2/2020/04/E476B09DEC2E4C55835F087E49486E79.jpg?w=1280&h=720&crop=1",
+          "publishedAt": "2020-04-02T03:11:00Z",
+          "content": "BAKERSFIELD, Calif. (KGET) – Many people tell 17 news that they are being denied a COVID-19 test despite showing symptoms. \r\nDave Anderson’s 18-year-old daughter started feeling sick earlier this week. \r\nOn monday she came down with a fever, started coughing,… [+2412 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nbc15.com"
+          },
+          "author": "Michelle Baik",
+          "title": "Recovered from COVID-19, UW-Madison student goes viral with message and warning - WMTV",
+          "description": "A UW-Madison student’s “horrible” and “scary” experience with COVID-19 has gone viral, as she warns other twentysomethings that the same could happen to them.",
+          "url": "https://www.nbc15.com/content/news/Recovered-from-COVID-19-UW-Madison-student-goes-viral-with-message-and-warning-569305721.html",
+          "urlToImage": "https://media.graytvinc.com/images/Still0401_0000118.jpg",
+          "publishedAt": "2020-04-02T03:09:32Z",
+          "content": "MADISON, Wis. (WMTV)-- A UW-Madison students horrible and scary experience with COVID-19 has gone viral, as she warns other twentysomethings that the same could happen to them.\r\nI was genuinely afraid I would fall asleep and not wake up, 22-year-old Amy Shirc… [+1874 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Youtube.com"
+          },
+          "author": null,
+          "title": "New York City COVID-19 deaths pass 1000 - CBC News: The National",
+          "description": "COVID-19 deaths exceed 1,000 in New York City leading to United States Vice-President Mike Pence to compare the country’s situation to that of Italy. Welcome...",
+          "url": "https://www.youtube.com/watch?v=1J0jTC_CzR8",
+          "urlToImage": "https://i.ytimg.com/vi/1J0jTC_CzR8/maxresdefault.jpg",
+          "publishedAt": "2020-04-02T02:34:41Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nbcdfw.com"
+          },
+          "author": "Ken Kalthoff",
+          "title": "Dallas County Coronavirus Count by Zip Code - NBC 5 Dallas-Fort Worth",
+          "description": "As experts work to fight coronavirus in Dallas County, they’ve noticed hot spots. A map compiled with test results through March 31, 2020, shows five Dallas...",
+          "url": "https://www.nbcdfw.com/news/coronavirus/dallas-county-coronavirus-count-by-zip-code/2343654/",
+          "urlToImage": "https://media.nbcdfw.com/2019/09/COVID-Zip-Code-Map.jpg?resize=1200%2C675",
+          "publishedAt": "2020-04-02T02:20:10Z",
+          "content": "As experts work to fight coronavirus in Dallas County, theyve noticed hot spots.\r\nA map compiled with test results through March 31, 2020, shows five Dallas County Zip Codes with 20 or more cases.\r\nAs the number of people tested keeps growing, new positive te… [+1954 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Wrcbtv.com"
+          },
+          "author": null,
+          "title": "Hamilton County Health Department confirms first child to die from COVID-19 - WRCB-TV",
+          "description": "Health officials say the child was under the age of five with underlying health issues; they died at a local hospital.",
+          "url": "https://www.wrcbtv.com/story/41964118/hamilton-county-health-department-confirms-first-child-to-die-from-covid19",
+          "urlToImage": "https://WRCB.images.worldnow.com/images/19228238_G.jpeg?lastEditedDate=1583063480000",
+          "publishedAt": "2020-04-02T02:07:00Z",
+          "content": "The Hamilton County Health Department announced the first local death of a child from COVID-19.\r\nHealth officials say the child was under the age of five with underlying health issues; they died at a local hospital.\r\nThey also announced two more people tested… [+1396 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Wkyt.com"
+          },
+          "author": "WKYT News Staff",
+          "title": "COVID-19 survivor's plasma used in treatment at Baptist Health - WKYT",
+          "description": "On Sunday, doctors used plasma from a recovered COVID-19 patient as a potential treatment for two critically ill patients with the virus.",
+          "url": "https://www.wkyt.com/content/news/COVID-19-survivors-plasma-used-in-treatment-at-Baptist-Health-569304491.html",
+          "urlToImage": "https://media.graytvinc.com/images/coronavirus+mgn19.jpg",
+          "publishedAt": "2020-04-02T02:05:04Z",
+          "content": "LEXINGTON, Ky. (WKYT) - Doctors at Baptist Health are taking a new approach to treat COVID-19 patients in Lexington. \r\nOn Sunday, doctors used plasma from a recovered COVID-19 patient as a potential treatment for two critically ill patients with the virus. \r\n… [+991 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Myfox8.com"
+          },
+          "author": "Associated Press",
+          "title": "More evidence indicates healthy people can spread coronavirus - WGHP FOX 8 Greensboro",
+          "description": "NEW YORK (AP) — Scientists offered more evidence Wednesday that the coronavirus is spread by seemingly healthy people who show no clear symptoms, and the federal government issued new guidance warn…",
+          "url": "https://myfox8.com/news/coronavirus/more-evidence-indicates-healthy-people-can-spread-coronavirus/",
+          "urlToImage": "https://myfox8.com/wp-content/uploads/sites/17/2020/04/AP20092717154641.jpg?w=1280&h=720&crop=1",
+          "publishedAt": "2020-04-02T02:03:07Z",
+          "content": "NEW YORK (AP) Scientists offered more evidence Wednesday that the coronavirus is spread by seemingly healthy people who show no clear symptoms, and the federal government issued new guidance warning that anyone exposed to the disease can be considered a carri… [+4559 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Abc7ny.com"
+          },
+          "author": null,
+          "title": "Coronavirus News: New guidelines for EMS in NYC show grim reality of COVID-19 pandemic - WABC-TV",
+          "description": "New guidance for EMS in New York City and Long Island says that patients in cardiac arrest should not be transported to the hospital if they cannot be saved in the field.",
+          "url": "https://abc7ny.com/coronavirus-nyc-news-updates-new-york/6069778",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/6069932_040120-wabc-ems-nyc-img.png?w=1600",
+          "publishedAt": "2020-04-02T01:56:55Z",
+          "content": "NEW YORK CITY (WABC) -- New guidance for EMS in New York City and Long Island says that patients in cardiac arrest should not be transported to the hospital if they cannot be saved in the field.The hospitals in New York are overrun with coronavirus infections… [+2123 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Dailymail.co.uk"
+          },
+          "author": "By Keith Griffith For Dailymail.com Associated Press",
+          "title": "NYC's Mount Sinai is building negative pressure rooms to isolate coronavirus patients - Daily Mail",
+          "description": "The rooms, which use vents to create lower air pressure inside than in the corridors of the hospital, ensure that when the door is opened, no air escapes and lowers the risk of spreading the virus.",
+          "url": "https://www.dailymail.co.uk/news/article-8177723/NYCs-Mount-Sinai-building-negative-pressure-rooms-isolate-coronavirus-patients.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2020/04/02/02/26698450-0-image-a-3_1585789727787.jpg",
+          "publishedAt": "2020-04-02T01:56:15Z",
+          "content": "The Mount Sinai Hospital in Manhattan is building negative pressure rooms to isolate coronavirus patients and prevent cross-contamination, DailyMail.com can reveal.\r\nThe rooms, which use vents to create lower air pressure inside than in the corridors of the h… [+5394 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Ksla.com"
+          },
+          "author": "Curtis Heyen",
+          "title": "COVID-19 death toll rises to 12 in Caddo - KSLA",
+          "description": "The coroner’s office says the latest 3 victims also had serious pre-existing health conditions",
+          "url": "https://www.ksla.com/2020/04/02/covid-death-toll-rises-caddo/",
+          "urlToImage": "https://www.ksla.com/resizer/1wwpwa-52GQhuncgkPLISs4Ouys=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/S3QVF3JW3RCWDIC2QJSJZIQ6RU.JPG",
+          "publishedAt": "2020-04-02T01:42:00Z",
+          "content": "SHREVEPORT, La. (KSLA) The death toll due to the coronavirus has risen to a dozen in Caddo, the parish coroners office reports."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Thexradio.com"
+          },
+          "author": "Greg Sapp",
+          "title": "Effingham County Has First Positive COVID-19 Case - Effingham's News Leader",
+          "description": "Effingham's News and Sports Leader",
+          "url": "http://www.thexradio.com/news/78-local-news/43992-effingham-county-has-first-positive-covid-19-case",
+          "urlToImage": null,
+          "publishedAt": "2020-04-02T01:19:00Z",
+          "content": "Published on April 1 2020 8:19 pm\r\nLast Updated on April 1 2020 8:40 pm\r\nWritten by Greg Sapp\r\nEffingham County has its first positive case of the COVID-19 virus.\r\nEffingham County Health Department was notified late Wednesday afternoon of the positive test. … [+2586 chars]"
+      }
+  ]
+}

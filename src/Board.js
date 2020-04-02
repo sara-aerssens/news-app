@@ -6,7 +6,8 @@ class Board extends Component {
     super(props);
 
     this.state = {
-      data: ['bitch']
+      data: null,
+      spinner: 'Loading...' // make animation
     }
   }
 
@@ -16,14 +17,15 @@ class Board extends Component {
       .then((data) => this.setState({ data }));
   }
 
+  getArticles() {
+    return this.state.data.map((article, index) => <Article article={article} key={index} />);
+  }
+
   render() {
-    console.log(this.state.data);
+    const articles = this.state.data ? this.getArticles() : this.state.spinner;
     return (
       <div className="board">
-        {/* // add articles to board here */}
-        <Article />
-        <Article />
-        <Article />
+        {articles}
       </div>
     );
   }

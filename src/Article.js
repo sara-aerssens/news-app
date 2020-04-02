@@ -1,17 +1,15 @@
 import React from 'react';
 
-function Article() {
+function Article(props) {
   return (
     <div className="article-box">
-      <h3 className="article-title">Title</h3>
-      <p className="article-text">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
-        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
-        officia deserunt mollit anim id est laborum.
-      </p>
+      <h3 className="article-title">{props.article.title}</h3>
+      <hr/>
+      {props.article.urlToImage &&
+      <img className="article-img" src={props.article.urlToImage} alt="article" />}
+      <p className="article-desc">{props.article.description}</p>
+      <p className="article-text">{props.article.content}</p>
+      <p>Read more on: <a href={props.article.url}>{props.article.source.name}</a></p>
     </div>
   );
 }
