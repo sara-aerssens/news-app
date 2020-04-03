@@ -10,6 +10,7 @@
   ],
   "rules": {
     "react/jsx-filename-extension": 0,
-    "padded-blocks": 0
+    "padded-blocks": 0,
+    "react/prop-types": [0]
   }
 }

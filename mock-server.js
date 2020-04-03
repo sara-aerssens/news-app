@@ -3,7 +3,6 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 
-console.log(path.join(__dirname))
 app.use(express.static(path.join(__dirname, 'build')));
 
 function removeDuplicates(data) {

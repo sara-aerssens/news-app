@@ -6,47 +6,43 @@ class Board extends Component {
     super(props);
 
     this.state = {
-      category: props.category,
       data: props.data,
-      spinner: <div className="spinner">Loading...</div>
-    }
-    // this.fetchData = this.fetchData.bind(this);
-  }
-
-  fetchData(category) {
-    let url = '/api/news';
-    if (category) {
-      url += `/${category}`;
-    }
-
-    fetch(url)
-      .then((res) => res.json())
-      .then((data) => this.setState({ 
-        data,
-        category: this.props.category }));
+      spinner: <div className="spinner">Loading...</div>,
+    };
   }
 
   componentDidMount() {
-    this.fetchData(this.state.category);
+    this.fetchData();
   }
 
   componentDidUpdate(prevProps) {
-    if (prevProps !== this.props && this.props.category) {
-      this.fetchData(this.props.category);
+    const { category } = this.props;
+    if (prevProps !== this.props && category) {
+      this.fetchData(category);
     }
   }
 
   getArticles() {
-    return this.state.data.map((article, index) => <Article article={article} key={index} />);
+    const { data } = this.state;
+    return <div className="board">{data.map((article) => <Article article={article} key={article.url} />)}</div>
+  }
+
+  handleServerError() {
+    this.setState({ spinner: <div className="error">No articles could be loaded at this moment. Please try again later.</div>})
+  }
+
+  fetchData(category) {
+    let url = '/api/news';
+    if (category) url += `/${category}`;
+    fetch(url)
+      .then((res) => res.json())
+      .then((data) => this.setState({ data }))
+      .catch(() => this.handleServerError());
   }
 
   render() {
-    const articles = this.state.data ? this.getArticles() : this.state.spinner;
-    return (
-      <div className="board">
-        {articles}
-      </div>
-    );
+    const { data, spinner } = this.state;
+    return data ? this.getArticles() : spinner;
   }
 }
 
