@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import moment from 'moment';
 import Board from './Board';
 
-// const date = moment().format('dddd MMMM D, YYYY');
-
 class App extends Component {
   constructor(props) {
     super(props);

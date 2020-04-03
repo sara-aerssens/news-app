@@ -24,11 +24,11 @@ class Board extends Component {
 
   getArticles() {
     const { data } = this.state;
-    return <div className="board">{data.map((article) => <Article article={article} key={article.url} />)}</div>
+    return <div className="board">{data.map((article) => <Article article={article} key={article.url} />)}</div>;
   }
 
   handleServerError() {
-    this.setState({ spinner: <div className="error">No articles could be loaded at this moment. Please try again later.</div>})
+    this.setState({ spinner: <div className="error">No articles could be loaded at this moment. Please try again later.</div> });
   }
 
   fetchData(category) {
