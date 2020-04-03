@@ -1,3 +1,4 @@
+require('dotenv').config({path: __dirname + '/.env'});
 const express = require('express');
 const fetch = require('node-fetch');
 const path = require('path');
@@ -7,7 +8,7 @@ const app = express();
 const country = 'us';
 const pageSize = '16';
 const baseURL = `https://newsapi.org/v2/top-headlines?country=${country}&pageSize=${pageSize}`;
-const apiKey = '&apiKey=92186ed1da2d49c480446c8d27d3248b';
+const apiKey = `&apiKey=${process.env['API_KEY']}`;
 
 app.use(express.static(path.join(__dirname, 'build')));
 
