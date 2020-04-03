@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import moment from 'moment';
 import Board from './Board';
 
+const categories = ['business', 'entertainment', 'health', 'science', 'sports', 'technology'];
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -20,7 +22,6 @@ class App extends Component {
   }
 
   loadCategories() {
-    const categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'];
     return categories.map((cat) => <button type="button" className={`category-btn ${cat}`} onClick={() => this.updateCategory(cat)} key={cat}>{cat}</button>);
   }
 
@@ -34,7 +35,7 @@ class App extends Component {
           <div className="date">{date}</div>
           <hr className="app-line" />
         </header>
-        <Board data={null} category={category} />
+        <Board category={category} />
       </div>
     );
   }

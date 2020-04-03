@@ -16,7 +16,7 @@ function removeDuplicates(data) {
   return data.articles.filter((v, i, a) => !a.slice(i + 1).find((obj) => obj.url === v.url));
 }
 
-app.get('/api/news', (req, res) => {
+app.get('/news', (req, res) => {
   const url = `${baseURL}${apiKey}`;
   fetch(url)
     .then((data) => data.json())
@@ -24,7 +24,7 @@ app.get('/api/news', (req, res) => {
     .then((articles) => res.json(articles));
 });
 
-app.get('/api/news/:cat', (req, res) => {
+app.get('/news/:cat', (req, res) => {
   const category = req.params.cat;
   const url = `${baseURL}&category=${category}${apiKey}`;
   fetch(url)

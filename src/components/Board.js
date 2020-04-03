@@ -6,7 +6,7 @@ class Board extends Component {
     super(props);
 
     this.state = {
-      data: props.data,
+      data: null,
       spinner: <div className="spinner">Loading...</div>,
     };
   }
@@ -36,7 +36,7 @@ class Board extends Component {
   }
 
   fetchData(category) {
-    let url = '/api/news';
+    let url = '/news';
     if (category) url += `/${category}`;
     fetch(url)
       .then((res) => res.json())
