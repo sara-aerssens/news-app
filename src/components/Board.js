@@ -24,7 +24,11 @@ class Board extends Component {
 
   getArticles() {
     const { data } = this.state;
-    return <div className="board">{data.map((article) => <Article article={article} key={article.url} />)}</div>;
+    return (
+      <div className="board">
+        {data.map((article) => <Article article={article} key={article.url} />)}
+      </div>
+    );
   }
 
   handleServerError() {

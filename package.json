@@ -2,11 +2,12 @@
   "name": "news-app",
   "version": "0.1.0",
   "private": false,
-  "license" : "MIT",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "express": "^4.17.1",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0",
     "react": "^16.13.1",
@@ -18,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint src/**/*.js",
-    "dev": "nodemon mock-server.js",
+    "lint": "eslint src/**/*.js server.js test/mock-server.js",
+    "dev": "nodemon test/mock-server.js",
     "start-server": "node server.js"
   },
   "proxy": "http://localhost:8080",
@@ -41,7 +42,6 @@
   "devDependencies": {
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-jest": "^23.8.2",
-    "express": "^4.17.1",
     "nodemon": "^2.0.2"
   }
 }

@@ -1,9 +1,10 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+
 const app = express();
 
-app.use(express.static(path.join(__dirname, 'build')));
+app.use(express.static(path.join(__dirname, '../build')));
 
 function removeDuplicates(data) {
   return data.articles.filter((v, i, a) => !a.slice(i + 1).find((obj) => obj.url === v.url));
@@ -26,6 +27,4 @@ app.get('/api/news/:cat', (req, res) => {
   });
 });
 
-app.listen(8080, () => {
-  console.log('Listening on port:', 8080);
-});
+app.listen(8080);

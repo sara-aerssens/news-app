@@ -15,9 +15,7 @@ class App extends Component {
   updateCategory(category) {
     this.setState({ category });
     const el = document.querySelector('.active');
-    if (el) {
-      el.classList.remove('active');
-    }
+    if (el) el.classList.remove('active');
     document.querySelector(`.${category}`).classList.add('active');
   }
 
